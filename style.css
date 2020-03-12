@@ -12,4 +12,23 @@
 .price{
     color: #ff135f;
 }
-
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: palevioletred;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.category h1{
+    color: white;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
